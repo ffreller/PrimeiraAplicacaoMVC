@@ -1,0 +1,10 @@
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.deps.json
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.runtimeconfig.json
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.runtimeconfig.dev.json
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.dll
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.pdb
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.AssemblyInfoInputs.cache
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.AssemblyInfo.cs
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.dll
+c:\Users\40809588897\Desktop\Programar\2018\1a semana\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.pdb
